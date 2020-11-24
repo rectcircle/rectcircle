@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Rectcircle's github stats](https://github-readme-stats.vercel.app/api?username=rectcircle)](https://github.com/anuraghazra/github-readme-stats)
+
+* :house: https://www.rectcircle.cn/
+* :email: rectcircle96@gmail.com
