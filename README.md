@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 
 * :house: https://www.rectcircle.cn/
 * :email: rectcircle96@gmail.com
+
+### Support my open-source work
+
+If you find my projects useful, consider buying me a coffee to support ongoing development and maintenance.
+
+* 🇨🇳 [爱发电](https://afdian.com/a/rectcircle)
+* 🌍 [Ko-fi](https://ko-fi.com/rectcircle)
+* 
