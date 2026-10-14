@@ -26,4 +26,3 @@ If you find my projects useful, consider buying me a coffee to support ongoing d
 
 * 🇨🇳 [爱发电](https://afdian.com/a/rectcircle)
 * 🌍 [Ko-fi](https://ko-fi.com/rectcircle)
-* 
